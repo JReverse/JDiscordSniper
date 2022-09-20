@@ -1,0 +1,2 @@
+# JDiscordSniper
+.Net 6
