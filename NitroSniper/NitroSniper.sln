@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NitroSniper", "NitroSniper.csproj", "{A2DCA84C-E796-4856-876E-E899F1F4A0E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2DCA84C-E796-4856-876E-E899F1F4A0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2DCA84C-E796-4856-876E-E899F1F4A0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2DCA84C-E796-4856-876E-E899F1F4A0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2DCA84C-E796-4856-876E-E899F1F4A0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74A7D62A-ECBA-4CF7-B125-0D0DA1BF4E13}
+	EndGlobalSection
+EndGlobal
